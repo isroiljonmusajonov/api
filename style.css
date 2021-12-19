@@ -233,7 +233,7 @@ body {
 @media (max-width: 460px) {
   .meal-wrapper {
     max-width: 350px;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     margin: 0 auto;
     background-color: #fff;
     text-align: center;
@@ -256,7 +256,7 @@ body {
   .search-btn {
     width: 55px;
     height: 45px;
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     background: var(--tenne-tawny);
     color: #fff;
     border: none;
