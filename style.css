@@ -232,8 +232,8 @@ body {
 }
 @media (max-width: 460px) {
   .meal-wrapper {
-    max-width: 350px;
-    border: 1px solid red;
+    max-width: 300px;
+    /* border: 1px solid red; */
     margin: 0 auto;
     background-color: #fff;
     text-align: center;
